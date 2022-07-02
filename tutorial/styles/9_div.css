@@ -1,0 +1,14 @@
+.reddiv {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+.greencircle {
+    background-color: rgb(0, 255, 85);
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    display: inline-block;
+}
+
