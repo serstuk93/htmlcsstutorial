@@ -1,0 +1,27 @@
+.img {
+    width: 200px;
+    border-radius: 10px;
+}
+
+.img2 {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.img3 {
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+    object-position: center;
+    border-radius: 50px;
+}
+
+.img4 {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50px;
+}
