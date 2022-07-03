@@ -11,4 +11,145 @@
     border-radius: 50px;
     display: inline-block;
 }
+button{
+    display: inline-block;
+    margin-right: 5px;
+    vertical-align: middle;
+}
+.c1{
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(150, 150, 150);
+    width: 300px;
+    padding-left: 15px;
+    padding-bottom: 20px;
+}
+.divexmp{
+    background-color: rgb(63, 63, 63);
+    width: 420px;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 7px;
+}
+.text1{
+    font-size: 20px ;
+    font-weight:bold;
+}
+.text2{
+    color: rgb(204, 204, 204);
+}
+.img5 {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 25px;
+    vertical-align: middle;
+    margin-right: 5px;
+}
 
+.text-box {
+    font-size: 18px;
+    border: none;
+    width: 300px;
+    vertical-align: middle;
+}
+
+.tweet-button {
+    background-color: rgb(29, 155, 240);
+    color: white;
+    border: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 30px;
+    font-size: 16px;
+    font-weight: bold;
+    vertical-align: middle;
+}
+
+.div2{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    padding-left: 12px;
+    padding-right: 12px;
+    width: 480px;
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.2);
+    margin-bottom: 30px;
+}
+.div3{
+    width: 200px;
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.2);
+    display: inline-block;
+    margin-right: 15px;
+}
+.img1{
+width: 199px;
+height: 200px;
+object-fit: cover;
+object-position: center;
+}
+.text-box1{
+width: 100px;
+padding-right: 16px;
+padding-bottom: 0px;
+margin-bottom: 5px;
+font-weight: bold;
+margin-left: 10px;
+margin-top: 5px ;
+}
+.text-box2 {
+    width: 199px;
+    padding-top: 0px;
+    margin-top: 0px ;
+    color: rgb(68, 68, 68);
+    margin-left: 10px;
+}
+.addfriend-button{
+color: white;
+background-color: rgb(41, 120, 211);
+border: none;
+border-radius: 5px; 
+padding-top: 8px;
+padding-bottom: 8px;
+padding-left: 16px;
+padding-right: 16px;
+margin-left: 10px;
+margin-bottom: 10px;
+}
+.gdiv{
+    text-align: center;
+}
+.glogo{
+    display: inline-block;
+    width: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+.ginput{
+border: none;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 16px;
+    padding-right: 16px;
+    font-size: 16px;
+    width: 500px;
+    border-radius: 30px;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.2);
+    margin-bottom: 30px;
+}
+.gbutton1{
+background-color: rgb(245, 245, 245);
+    border: none;
+    font-size: 15px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 10px;
+}
